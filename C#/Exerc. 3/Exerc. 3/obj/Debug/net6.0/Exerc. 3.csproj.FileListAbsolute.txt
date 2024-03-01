@@ -1,0 +1,15 @@
+C:\Users\Willian\Desktop\Trabalhos\Trabalho VSCode\C#\Exerc. 3\Exerc. 3\bin\Debug\net6.0\Exerc. 3.exe
+C:\Users\Willian\Desktop\Trabalhos\Trabalho VSCode\C#\Exerc. 3\Exerc. 3\bin\Debug\net6.0\Exerc. 3.deps.json
+C:\Users\Willian\Desktop\Trabalhos\Trabalho VSCode\C#\Exerc. 3\Exerc. 3\bin\Debug\net6.0\Exerc. 3.runtimeconfig.json
+C:\Users\Willian\Desktop\Trabalhos\Trabalho VSCode\C#\Exerc. 3\Exerc. 3\bin\Debug\net6.0\Exerc. 3.dll
+C:\Users\Willian\Desktop\Trabalhos\Trabalho VSCode\C#\Exerc. 3\Exerc. 3\bin\Debug\net6.0\Exerc. 3.pdb
+C:\Users\Willian\Desktop\Trabalhos\Trabalho VSCode\C#\Exerc. 3\Exerc. 3\obj\Debug\net6.0\Exerc. 3.csproj.AssemblyReference.cache
+C:\Users\Willian\Desktop\Trabalhos\Trabalho VSCode\C#\Exerc. 3\Exerc. 3\obj\Debug\net6.0\Exerc. 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Willian\Desktop\Trabalhos\Trabalho VSCode\C#\Exerc. 3\Exerc. 3\obj\Debug\net6.0\Exerc. 3.AssemblyInfoInputs.cache
+C:\Users\Willian\Desktop\Trabalhos\Trabalho VSCode\C#\Exerc. 3\Exerc. 3\obj\Debug\net6.0\Exerc. 3.AssemblyInfo.cs
+C:\Users\Willian\Desktop\Trabalhos\Trabalho VSCode\C#\Exerc. 3\Exerc. 3\obj\Debug\net6.0\Exerc. 3.csproj.CoreCompileInputs.cache
+C:\Users\Willian\Desktop\Trabalhos\Trabalho VSCode\C#\Exerc. 3\Exerc. 3\obj\Debug\net6.0\Exerc. 3.dll
+C:\Users\Willian\Desktop\Trabalhos\Trabalho VSCode\C#\Exerc. 3\Exerc. 3\obj\Debug\net6.0\refint\Exerc. 3.dll
+C:\Users\Willian\Desktop\Trabalhos\Trabalho VSCode\C#\Exerc. 3\Exerc. 3\obj\Debug\net6.0\Exerc. 3.pdb
+C:\Users\Willian\Desktop\Trabalhos\Trabalho VSCode\C#\Exerc. 3\Exerc. 3\obj\Debug\net6.0\Exerc. 3.genruntimeconfig.cache
+C:\Users\Willian\Desktop\Trabalhos\Trabalho VSCode\C#\Exerc. 3\Exerc. 3\obj\Debug\net6.0\ref\Exerc. 3.dll
