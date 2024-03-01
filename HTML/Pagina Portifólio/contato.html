@@ -1,0 +1,82 @@
+<!--Padrão html gerado através do comando b4-$ do bootstrap-->
+<!doctype html>
+<html lang="en">
+  <head>
+    <title>Contato</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+<!--Tag style do CSS para editar o visual dos elementos-->
+    <style>
+      .cabeçalho {
+        text-align: center;
+        background-color: black;
+        color: white;
+        line-height: 90px;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+      }
+
+      #card {
+        width: 90%;
+        margin-left: 5%;
+        text-align: justify;
+        z-index: 4;
+      }
+
+      #botao {
+        text-align: center;
+        height: 10%;
+        margin-bottom: 10px;   
+      }
+
+      #imagem {
+        width: 20%;
+        height: auto;    
+        margin-left: 40%; 
+      }
+    </style>
+<!--Função que da o aviso de mensagem enviada-->
+    <script>
+      function enviar(){
+        alert('Sua mensagem foi enviada com sucesso, obrigado pela interação!');
+      }
+    </script>
+  </head>
+  <body style="background-color: darkgrey;">
+<!--Cabeçalho com o nome da página e uma foto-->
+    <h1 class="cabeçalho">Contato</h1>
+    <img src="2.png" class="img-fluid" id="imagem">
+<!--Card para adicionar informações da página de forma organizada-->
+    <div id="card" class="card border-dark mb-3">
+      <div class="card-body bg-secondary">
+        <h5 class="card-title" style="color: white;">Contato</h5>
+        <p class="card-text" style="color: white;">Para entrar em contato, basta adicionar as informações necessárias abaixo e enviar. Assim que eu receber, responderei dentro do possível.</p>
+<!--Formulário com inputs de informações para envio da mensagem-->
+        <form>
+          <div class="input-group mb-3">
+            <input type="text" class="form-control" placeholder="Nome" style="margin-right: 20px;"> 
+            <input type="email" class="form-control" placeholder="Email">
+          </div>
+          <div class="mb-3">
+            <label class="form-label" style="color: white;"><b>Deixe sua mensagem:</b></label>
+            <textarea class="form-control" rows="3" placeholder="Escreva aqui sua mensagem"></textarea>
+          </div>
+<!--Botão de envio da mensagem que ativa a função Enviar-->
+          <button type="submit" class="btn btn-danger" id="btn-enviar" onclick="enviar()"/>Enviar</button>
+        </form> 
+      </div>
+    </div>
+<!--Botões para fazer o avanço entre as páginas-->
+    <div id="botao">
+      <p style="font-size: 12px; margin: 2px;">Para mais informações, é só utilizar os botões de atalho ou voltar para a página inicial</p>
+		  <a role="button" class="btn btn-danger" href="index.html" style="margin-right: 30px;">Início</a>
+      <a role="button" class="btn btn-danger" href="sobre.html" style="margin-right: 30px;">Sobre</a>
+      <a role="button" class="btn btn-danger" href="formacao.html" style="margin-right: 30px;">Formação</a>
+      <a role="button" class="btn btn-danger" href="portfolio.html">Portfólio</a>         
+    </div>
+<!--Scripts que vieram junto com o b4-$ do bootstrap-->
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+  </body>
+</html>
